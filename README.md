@@ -1,2 +1,2 @@
 # testing
-Show github workflow test
+Show github workflow test. Use basic commands
